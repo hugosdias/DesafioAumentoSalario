@@ -1,0 +1,15 @@
+C:\DIO\C#\Desafios\DesafioAumentoSalario\bin\Debug\net6.0\DesafioAumentoSalario.exe
+C:\DIO\C#\Desafios\DesafioAumentoSalario\bin\Debug\net6.0\DesafioAumentoSalario.deps.json
+C:\DIO\C#\Desafios\DesafioAumentoSalario\bin\Debug\net6.0\DesafioAumentoSalario.runtimeconfig.json
+C:\DIO\C#\Desafios\DesafioAumentoSalario\bin\Debug\net6.0\DesafioAumentoSalario.dll
+C:\DIO\C#\Desafios\DesafioAumentoSalario\bin\Debug\net6.0\DesafioAumentoSalario.pdb
+C:\DIO\C#\Desafios\DesafioAumentoSalario\obj\Debug\net6.0\DesafioAumentoSalario.csproj.AssemblyReference.cache
+C:\DIO\C#\Desafios\DesafioAumentoSalario\obj\Debug\net6.0\DesafioAumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\C#\Desafios\DesafioAumentoSalario\obj\Debug\net6.0\DesafioAumentoSalario.AssemblyInfoInputs.cache
+C:\DIO\C#\Desafios\DesafioAumentoSalario\obj\Debug\net6.0\DesafioAumentoSalario.AssemblyInfo.cs
+C:\DIO\C#\Desafios\DesafioAumentoSalario\obj\Debug\net6.0\DesafioAumentoSalario.csproj.CoreCompileInputs.cache
+C:\DIO\C#\Desafios\DesafioAumentoSalario\obj\Debug\net6.0\DesafioAumentoSalario.dll
+C:\DIO\C#\Desafios\DesafioAumentoSalario\obj\Debug\net6.0\refint\DesafioAumentoSalario.dll
+C:\DIO\C#\Desafios\DesafioAumentoSalario\obj\Debug\net6.0\DesafioAumentoSalario.pdb
+C:\DIO\C#\Desafios\DesafioAumentoSalario\obj\Debug\net6.0\DesafioAumentoSalario.genruntimeconfig.cache
+C:\DIO\C#\Desafios\DesafioAumentoSalario\obj\Debug\net6.0\ref\DesafioAumentoSalario.dll
