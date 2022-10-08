@@ -21,6 +21,8 @@ A entrada contém apenas um valor de ponto flutuante, que pode ser maior ou igua
 ### Saída
 Imprima 3 linhas na saída: o novo salário, o valor ganho de reajuste e o percentual de reajuste ganho, conforme exemplo abaixo.
 
+
+### Exemplo
  
 |Exemplo de Entrada|	Exemplo de Saída|
 |-------|------|
