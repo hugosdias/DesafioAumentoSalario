@@ -13,7 +13,7 @@ class minhaClasse {
 
 //TODO: Complete os espaços em branco com uma possível solução para o problema:
    
-    if( salario < 0) { 
+    if( salario <= 0.00) { 
       return; 
 
     } else if ( salario <= 400.00 ) { 
