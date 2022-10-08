@@ -1,8 +1,6 @@
-# Desafio Aumento Salario
-Desafio Aumento de Salário
+# :dollar: Desafio Aumento Salario :dollar:
 
-
-Desafio
+## Desafio:
 A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
 
  
